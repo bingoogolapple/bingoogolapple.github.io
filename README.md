@@ -1,9 +1,7 @@
 :running:个人主页。同时也通过[Issues](https://github.com/bingoogolapple/bingoogolapple.github.io/issues)记录学习笔记:running:
 ===================
 
-### 关于我
-
-![Logo](http://7xk9dj.com1.z0.glb.clouddn.com/bgaavatar.gif?imageView2/2/w/300)
+![Logo](http://7xk9dj.com1.z0.glb.clouddn.com/bgaavatar.gif?imageView2/2/w/400)
 
 您好，我是王浩，一个生活在成都的Android开发者和开源爱好者。正为28岁前成为一名全栈工程师的目标奋斗着:running:
 
