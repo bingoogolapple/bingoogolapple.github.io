@@ -3,6 +3,8 @@
 
 ### 关于我
 
+![Logo](http://7xk9dj.com1.z0.glb.clouddn.com/bgaavatar.gif?imageView2/2/w/300)
+
 您好，我是王浩，一个生活在成都的Android开发者和开源爱好者。正为28岁前成为一名全栈工程师的目标奋斗着:running:
 
 座右铭：自助者天助之。
