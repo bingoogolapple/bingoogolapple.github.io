@@ -7,7 +7,7 @@
 
 座右铭：自助者天助之。
 
-如果您手头有在成都的Android工作岗位，而且您认为我的能力能适应您的工作岗位，您可以发Email给我：<a href="mailto:bingoogolapple@gmail.com" target="_blank">bingoogolapple@gmail.com</a>
+如果您手头有在成都的 Android 工作岗位，而且您认为我的能力能适应您的工作岗位，您可以发Email给我：<a href="mailto:bingoogolapple@gmail.com" target="_blank">bingoogolapple@gmail.com</a>
 
 | 新浪微博 | 个人主页 | 邮箱 | BGA系列开源库QQ群 |
 | ------------ | ------------- | ------------ | ------------ |
