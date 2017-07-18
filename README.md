@@ -1,4 +1,6 @@
-![bgaavatar](https://cloud.githubusercontent.com/assets/8949716/17818792/a27fd894-6677-11e6-96a1-108397571333.gif)
+<center style="margin-bottom: 25px;">
+  <img src="https://cloud.githubusercontent.com/assets/8949716/17818792/a27fd894-6677-11e6-96a1-108397571333.gif">
+</center>
 
 你好，我是王浩，一个生活在成都的 Android 开发者和开源爱好者。正为28岁前成为一名全栈工程师的目标奋斗着:running:
 
@@ -14,6 +16,6 @@
 
 如果觉得 BGA 系列开源库对您有用，请随意打赏。
 
-<p align="center">
+<center>
   <img src="http://7xk9dj.com1.z0.glb.clouddn.com/bga_pay.png" width="450">
-</p>
+</center>
