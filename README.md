@@ -2,9 +2,9 @@
   <img src="https://cloud.githubusercontent.com/assets/8949716/17818792/a27fd894-6677-11e6-96a1-108397571333.gif">
 </center>
 
-你好，我是王浩，一个生活在成都的 Android 开发者和开源爱好者。正为28岁前成为一名全栈工程师的目标奋斗着:running:
+你好，我是王浩，一个生活在成都的 Android 开发者和开源爱好者。正为28岁前成为一名全栈工程师的目标奋斗着
 
-如果您手头有在成都的 Android 或 Java 工作岗位，而且您认为我的能力能适应您的工作岗位，您可以发Email给我：<a href="mailto:bingoogolapple@gmail.com" target="_blank">bingoogolapple@gmail.com</a>
+如果您手头有在成都的 Android 或 Java 工作岗位，而且您认为我的能力能适应您的工作岗位，您可以发 Email 给我：<a href="mailto:bingoogolapple@gmail.com" target="_blank">bingoogolapple@gmail.com</a>
 
 ## 相关连接
 
