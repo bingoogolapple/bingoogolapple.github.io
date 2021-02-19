@@ -8,9 +8,9 @@
 
 ## 相关连接
 
-| 个人主页 | 邮箱 | BGA系列开源库QQ群
-| ------------- | ------------ | ------------ |
-| <a  href="http://www.bingoogolapple.cn" target="_blank">bingoogolapple.cn</a>  | <a href="mailto:bingoogolapple@gmail.com" target="_blank">bingoogolapple@gmail.com</a> | ![BGA_CODE_CLUB](http://bgashare.bingoogolapple.cn/BGA_CODE_CLUB.png?imageView2/2/w/200) |
+| 个人主页 | 邮箱 | BGA系列开源库QQ群 | 公众号 |
+| ------------- | ------------ | ------------ | ------------ |
+| <a  href="http://www.bingoogolapple.cn" target="_blank">bingoogolapple.cn</a>  | <a href="mailto:bingoogolapple@gmail.com" target="_blank">bingoogolapple@gmail.com</a> | ![BGA_CODE_CLUB](http://bgashare.bingoogolapple.cn/BGA_CODE_CLUB.png?imageView2/2/w/200) | ![dyh](http://bgashare.bingoogolapple.cn/dyh12.jpg?imageView2/2/w/200) |
 
 ## 打赏支持
 
